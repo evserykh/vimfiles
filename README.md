@@ -31,11 +31,11 @@ source ~/.vim/vimrc
 * snippets support
 * auto-close chars e.g. '(' will automatically insert ')'
 * mappings to easily delete, change and add such surroundings in pairs (https://github.com/tpope/vim-surround)
-
+* [Emmet](http://docs.emmet.io/) (previously known as Zen Coding)* 
 
 ### Used plugins ###
 * [marcweber/vim-addon-mw-utils](https://github.com/marcweber/vim-addon-mw-utils)
-* [vim-autoclose](https://github.com/Townk/vim-autoclose)
+* [Townk/vim-autoclose](https://github.com/Townk/vim-autoclose)
 * [bling/vim-airline](https://github.com/bling/vim-airline)
 * [ervandew/supertab](https://github.com/ervandew/supertab)
 * [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate)
@@ -47,4 +47,4 @@ source ~/.vim/vimrc
 * [scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter)
 * [tomtom/tlib_vim](https://github.com/tomtom/tlib_vim)
 * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
-* [vim-surround](https://github.com/tpope/vim-surround)
+* [trope/vim-surround](https://github.com/tpope/vim-surround)
