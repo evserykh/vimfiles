@@ -31,7 +31,7 @@ source ~/.vim/vimrc
 * snippets support
 * auto-close chars e.g. '(' will automatically insert ')'
 * mappings to easily delete, change and add such surroundings in pairs (https://github.com/tpope/vim-surround)
-* [Emmet](http://docs.emmet.io/) (previously known as Zen Coding)* 
+* [Emmet](http://docs.emmet.io/) (previously known as Zen Coding) 
 
 ### Used plugins ###
 * [marcweber/vim-addon-mw-utils](https://github.com/marcweber/vim-addon-mw-utils)
