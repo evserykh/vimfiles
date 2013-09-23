@@ -1,6 +1,7 @@
 source ~/.vim/vundle.vim
 
 source ~/.vim/common.vim
+source ~/.vim/ctrlp.vim
 source ~/.vim/disable_arrow_keys.vim
 source ~/.vim/langmap.vim
 source ~/.vim/last_cursor_position.vim
