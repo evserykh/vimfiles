@@ -1,23 +1,18 @@
-filetype off
-filetype plugin indent on
+source ~/.vim/vundles/vundle.vim
 
-set nocompatible
-
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-
-Bundle 'MarcWeber/vim-addon-mw-utils'
-Bundle 'Townk/vim-autoclose'
-Bundle 'bling/vim-airline'
-Bundle 'ervandew/supertab'
-Bundle 'garbas/vim-snipmate'
-Bundle 'gmarik/vundle'
-Bundle 'honza/vim-snippets'
-Bundle 'jpo/vim-railscasts-theme'
-Bundle 'kien/ctrlp.vim'
-Bundle 'mattn/emmet-vim'
-Bundle 'scrooloose/nerdcommenter'
-Bundle 'scrooloose/nerdtree'
-Bundle 'tomtom/tlib_vim'
-Bundle 'tpope/vim-fugitive'
-Bundle 'tpope/vim-surround'
+source ~/.vim/vundles/auto-pairs.vim
+source ~/.vim/vundles/ctrlp.vim
+source ~/.vim/vundles/emmet-vim.vim
+source ~/.vim/vundles/nerdcommenter.vim
+source ~/.vim/vundles/nerdtree.vim
+source ~/.vim/vundles/supertab.vim
+source ~/.vim/vundles/syntastic.vim
+source ~/.vim/vundles/vim-airline.vim
+source ~/.vim/vundles/vim-coffee-script.vim
+source ~/.vim/vundles/vim-rails-apidock.vim
+source ~/.vim/vundles/vim-rails.vim
+source ~/.vim/vundles/vim-railscasts-theme.vim
+source ~/.vim/vundles/vim-ruby.vim
+source ~/.vim/vundles/vim-snipmate.vim
+source ~/.vim/vundles/vim-snippets.vim
+source ~/.vim/vundles/vim-surround.vim
