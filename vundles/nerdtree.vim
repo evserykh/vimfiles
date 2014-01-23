@@ -1,6 +1,9 @@
 Bundle 'scrooloose/nerdtree'
 
-nmap <silent> <C-n> :call g:WorkaroundNERDTreeToggle()<CR>
+let NERDTreeIgnore=['\.swp$']
+
 function! g:WorkaroundNERDTreeToggle()
   try | :NERDTreeToggle | catch | :NERDTree | endtry
 endfunction
+
+nmap <silent> <C-n> :call g:WorkaroundNERDTreeToggle()<CR>
