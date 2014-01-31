@@ -19,6 +19,8 @@ set nowrap                            " не переносить длинные
 
 set laststatus=2                      " статусная строка включена всегда
 
+set backspace=indent,eol,start
+
 syntax on
 
 if &term =~? 'mlterm\|xterm'
