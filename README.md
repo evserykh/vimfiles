@@ -15,7 +15,7 @@ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 * Add to your .vimrc
 
 ```
-source ~/.vim/vimrc
+echo 'source ~/.vim/vimrc' >> ~/.vimrc
 ```
 
 * Run Vim and execute
