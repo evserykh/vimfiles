@@ -6,6 +6,7 @@ source ~/.vim/vundles/emmet-vim.vim
 source ~/.vim/vundles/html5.vim
 source ~/.vim/vundles/nerdcommenter.vim
 source ~/.vim/vundles/nerdtree.vim
+source ~/.vim/vundles/rspec.vim
 source ~/.vim/vundles/supertab.vim
 source ~/.vim/vundles/syntastic.vim
 source ~/.vim/vundles/vim-airline.vim
