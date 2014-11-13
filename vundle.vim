@@ -16,6 +16,7 @@ source ~/.vim/vundles/vim-rails-apidock.vim
 source ~/.vim/vundles/vim-rails.vim
 source ~/.vim/vundles/vim-railscasts-theme.vim
 source ~/.vim/vundles/vim-ruby.vim
+source ~/.vim/vundles/vim-slim.vim
 source ~/.vim/vundles/vim-snipmate.vim
 source ~/.vim/vundles/vim-snippets.vim
 source ~/.vim/vundles/vim-surround.vim
