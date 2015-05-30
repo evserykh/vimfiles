@@ -18,8 +18,8 @@ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 echo 'source ~/.vim/vimrc' >> ~/.vimrc
 ```
 
-* Run Vim and execute
+* Run Vim with command
 
 ```
-:BundleInstall
+vim +BundleInstall
 ```
