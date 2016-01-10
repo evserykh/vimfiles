@@ -1,4 +1,10 @@
-source ~/.vim/vundles/vundle.vim
+set nocompatible                      " be iMproved
+filetype off                          " required!
+
+set rtp+=~/.vim/bundle/vundle/
+call vundle#begin()
+
+Bundle 'gmarik/vundle'
 
 source ~/.vim/vundles/BufOnly.vim
 source ~/.vim/vundles/auto-pairs.vim
@@ -23,3 +29,6 @@ source ~/.vim/vundles/vim-slim.vim
 source ~/.vim/vundles/vim-snipmate.vim
 source ~/.vim/vundles/vim-snippets.vim
 source ~/.vim/vundles/vim-surround.vim
+
+call vundle#end()
+filetype plugin indent on
