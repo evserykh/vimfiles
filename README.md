@@ -1,15 +1,15 @@
 ### How to install ###
 
-* Clone repo 
+* Clone repo
 
 ```
 git clone https://github.com/evserykh/vimfiles.git ~/.vim
 ```
 
-* Clone [vundle](https://github.com/gmarik/vundle)
+* Clone [Vundle](https://github.com/VundleVim/Vundle.vim)
 
 ```
-git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
 * Add to your .vimrc
