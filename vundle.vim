@@ -1,10 +1,10 @@
-set nocompatible                      " be iMproved
-filetype off                          " required!
+set nocompatible
+filetype off
 
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim/
 call vundle#begin()
 
-Bundle 'gmarik/vundle'
+Plugin 'VundleVim/Vundle.vim'
 
 source ~/.vim/vundles/BufOnly.vim
 source ~/.vim/vundles/auto-pairs.vim
@@ -20,8 +20,10 @@ source ~/.vim/vundles/syntastic.vim
 source ~/.vim/vundles/vim-airline.vim
 source ~/.vim/vundles/vim-coffee-script.vim
 source ~/.vim/vundles/vim-colors-solarized.vim
+source ~/.vim/vundles/vim-easymotion.vim
+source ~/.vim/vundles/vim-elixir.vim
 source ~/.vim/vundles/vim-indexed-search.vim
-source ~/.vim/vundles/vim-rails-apidock.vim
+source ~/.vim/vundles/vim-mustache-handlebars.vim
 source ~/.vim/vundles/vim-rails.vim
 source ~/.vim/vundles/vim-railscasts-theme.vim
 source ~/.vim/vundles/vim-ruby.vim
