@@ -1,1 +1,1 @@
-Plugin 'elixir-lang/vim-elixir'
+Plugin 'easymotion/vim-easymotion'

@@ -1,1 +1,1 @@
-Bundle 'othree/html5.vim'
+Plugin 'othree/html5.vim'

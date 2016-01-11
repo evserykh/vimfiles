@@ -1,1 +1,1 @@
-Bundle 'honza/vim-snippets'
+Plugin 'honza/vim-snippets'

@@ -1,1 +1,1 @@
-Bundle 'vim-scripts/BufOnly.vim'
+Plugin 'vim-scripts/BufOnly.vim'

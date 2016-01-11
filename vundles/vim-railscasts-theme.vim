@@ -1,1 +1,1 @@
-Bundle 'evserykh/vim-railscasts-theme'
+Plugin 'evserykh/vim-railscasts-theme'

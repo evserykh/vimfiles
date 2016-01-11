@@ -1,4 +1,4 @@
-Bundle 'scrooloose/nerdtree'
+Plugin 'scrooloose/nerdtree'
 
 let NERDTreeIgnore=['\.swp$']
 

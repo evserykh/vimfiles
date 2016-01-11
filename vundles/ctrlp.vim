@@ -1,1 +1,1 @@
-Bundle 'kien/ctrlp.vim'
+Plugin 'kien/ctrlp.vim'

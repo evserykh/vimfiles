@@ -1,1 +1,1 @@
-Bundle 'scrooloose/syntastic'
+Plugin 'scrooloose/syntastic'

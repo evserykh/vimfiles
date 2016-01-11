@@ -1,1 +1,1 @@
-Bundle 'slim-template/vim-slim'
+Plugin 'slim-template/vim-slim'

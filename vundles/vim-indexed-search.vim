@@ -1,1 +1,1 @@
-Bundle 'henrik/vim-indexed-search'
+Plugin 'henrik/vim-indexed-search'

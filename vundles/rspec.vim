@@ -1,1 +1,1 @@
-Bundle 'Keithbsmiley/rspec.vim'
+Plugin 'Keithbsmiley/rspec.vim'

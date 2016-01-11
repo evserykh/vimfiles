@@ -1,1 +1,1 @@
-Bundle 'mattn/emmet-vim'
+Plugin 'mattn/emmet-vim'

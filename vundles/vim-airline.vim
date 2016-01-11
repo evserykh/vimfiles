@@ -1,4 +1,4 @@
 " dependeicies
-Bundle 'tpope/vim-fugitive'
+Plugin 'tpope/vim-fugitive'
 
-Bundle 'bling/vim-airline'
+Plugin 'bling/vim-airline'
