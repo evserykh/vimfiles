@@ -23,6 +23,7 @@ source ~/.vim/vundles/vim-colors-solarized.vim
 source ~/.vim/vundles/vim-easymotion.vim
 source ~/.vim/vundles/vim-elixir.vim
 source ~/.vim/vundles/vim-indexed-search.vim
+source ~/.vim/vundles/vim-jsx.vim
 source ~/.vim/vundles/vim-mustache-handlebars.vim
 source ~/.vim/vundles/vim-rails.vim
 source ~/.vim/vundles/vim-railscasts-theme.vim
@@ -30,6 +31,7 @@ source ~/.vim/vundles/vim-ruby.vim
 source ~/.vim/vundles/vim-slim.vim
 source ~/.vim/vundles/vim-snipmate.vim
 source ~/.vim/vundles/vim-snippets.vim
+source ~/.vim/vundles/vim-stylus.vim
 source ~/.vim/vundles/vim-surround.vim
 
 call vundle#end()
