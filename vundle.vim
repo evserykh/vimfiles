@@ -22,6 +22,7 @@ source ~/.vim/vundles/vim-coffee-script.vim
 source ~/.vim/vundles/vim-colors-solarized.vim
 source ~/.vim/vundles/vim-easymotion.vim
 source ~/.vim/vundles/vim-elixir.vim
+source ~/.vim/vundles/vim-es6.vim
 source ~/.vim/vundles/vim-indexed-search.vim
 source ~/.vim/vundles/vim-jsx.vim
 source ~/.vim/vundles/vim-mustache-handlebars.vim
