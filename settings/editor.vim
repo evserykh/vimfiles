@@ -19,6 +19,8 @@ set laststatus=2                      " статусная строка вклю
 
 set backspace=indent,eol,start
 
+set colorcolumn=120
+
 syntax on
 
 if &term =~? 'mlterm\|xterm'
