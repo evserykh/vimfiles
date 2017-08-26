@@ -25,6 +25,7 @@ source ~/.vim/vundles/vim-elixir.vim
 source ~/.vim/vundles/vim-es6.vim
 source ~/.vim/vundles/vim-indexed-search.vim
 source ~/.vim/vundles/vim-jsx.vim
+source ~/.vim/vundles/vim-multiple-cursors.vim
 source ~/.vim/vundles/vim-mustache-handlebars.vim
 source ~/.vim/vundles/vim-rails.vim
 source ~/.vim/vundles/vim-railscasts-theme.vim
