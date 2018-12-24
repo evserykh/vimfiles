@@ -1,1 +1,0 @@
-Plugin 'Keithbsmiley/rspec.vim'
